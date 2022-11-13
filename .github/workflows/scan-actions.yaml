@@ -17,6 +17,7 @@ jobs:
         uses: actions/setup-go@v2
         with:
           go-version: 1.17
+          check-latest: true
 
       - name: Cache Go
         id: cache-go
@@ -39,7 +40,7 @@ jobs:
 
       - name: Running Scanner
         run: |
-          nuclei -update-templates
+          #nuclei -update-templates
           subfinder -silent -dL input/domains.txt -config config/subfinder-config.yaml | anew output/passive_subdomains.txt | httpx -silent | anew output/active_urls.txt | nuclei -silent -t takeovers/ | anew output/nuclei_output.txt
         shell: bash
 
