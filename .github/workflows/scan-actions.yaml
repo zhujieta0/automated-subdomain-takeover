@@ -8,7 +8,7 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: centos-latest
     steps:
       - name: Checkout Repo
         uses: actions/checkout@master
@@ -17,7 +17,6 @@ jobs:
         uses: actions/setup-go@v2
         with:
           go-version: 1.17
-          check-latest: true
 
       - name: Cache Go
         id: cache-go
@@ -31,7 +30,7 @@ jobs:
         env:
           GO111MODULE: on
         run: |
-          go mod init scan
+          #go mod init scan
           go get -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder
           go get -v github.com/projectdiscovery/httpx/cmd/httpx
           go get -v github.com/projectdiscovery/nuclei/v2/cmd/nuclei
@@ -40,7 +39,7 @@ jobs:
 
       - name: Running Scanner
         run: |
-          #nuclei -update-templates
+          nuclei -update-templates
           subfinder -silent -dL input/domains.txt -config config/subfinder-config.yaml | anew output/passive_subdomains.txt | httpx -silent | anew output/active_urls.txt | nuclei -silent -t takeovers/ | anew output/nuclei_output.txt
         shell: bash
 
