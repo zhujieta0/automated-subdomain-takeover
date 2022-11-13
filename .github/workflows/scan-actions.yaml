@@ -30,7 +30,7 @@ jobs:
         env:
           GO111MODULE: on
         run: |
-          go mod init
+          go mod init scan
           go get -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder
           go get -v github.com/projectdiscovery/httpx/cmd/httpx
           go get -v github.com/projectdiscovery/nuclei/v2/cmd/nuclei
