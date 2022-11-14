@@ -39,7 +39,7 @@ jobs:
       - name: Running Scanner
         run: |
           nuclei -update-templates
-          subfinder -silent -dL input/domains.txt -config config/subfinder-config.yaml | anew output/passive_subdomains.txt | httpx -silent | anew output/active_urls.txt | nuclei -silent -t cves/ | anew output/nuclei_output.txt
+          subfinder -silent -dL input/domains.txt -config config/subfinder-config.yaml | anew output/passive_subdomains.txt | httpx -silent | anew output/active_urls.txt | nuclei -silent -t cves/ -vv | anew output/nuclei_output.txt
         shell: bash
 
       - name: Sorting the output results
