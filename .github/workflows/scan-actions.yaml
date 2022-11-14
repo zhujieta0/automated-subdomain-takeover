@@ -16,7 +16,7 @@ jobs:
       - name: Setup golang
         uses: actions/setup-go@v2
         with:
-          go-version: 1.14
+          go-version: 1.18
 
       - name: Cache Go
         id: cache-go
@@ -33,7 +33,7 @@ jobs:
           go install -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
           go install -v github.com/projectdiscovery/httpx/cmd/httpx@latest
           go install -v github.com/projectdiscovery/nuclei/v2/cmd/nuclei@latest
-          go install -u github.com/tomnomnom/anew@latest
+          go install -v github.com/tomnomnom/anew@latest
         shell: bash
 
       - name: Running Scanner
