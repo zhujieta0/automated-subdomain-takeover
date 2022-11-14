@@ -5,6 +5,7 @@ _spf1.acronis.com
 _spf2.acronis.com
 a.corp.acronis.com
 aa.acronis.com
+aa1715-kline.crypto.com
 aaa-vpn.acronis.com
 ab-jenkins.corp.acronis.com
 abgw-akl1-aci01.acronis.com
@@ -29,6 +30,8 @@ abgw-yvr1-aci01.acronis.com
 ablink.app.gymshark.com
 ablink.e.gymshark.com
 ablink.mail.gymshark.com
+ablink.news.crypto.com
+ablink.serviceinfo.crypto.com
 ablink.store.gymshark.com
 ablink.train.gymshark.com
 academy.acronis.com
@@ -48,6 +51,7 @@ admin.corp.acronis.com
 admin2.acronis.com
 adn.acronis.com
 adr.acronis.com
+advertising.crypto.com
 affiliate.acronis.com
 agents-at01-cloud.acronis.com
 agents-bg01-cloud.acronis.com
@@ -110,6 +114,7 @@ ans3.acronis.com
 ans4.acronis.com
 api-creators.gymshark.com
 api.acronis.com
+api.crypto.com
 api.develop.gymshark.com
 api.gymshark.com
 api.omise.co
@@ -133,10 +138,12 @@ au-vpn.acronis.com
 au.gymshark.com
 au1-cloud.acronis.com
 auth.acronis.com
+auth.crypto.com
 auth.develop.gymshark.com
 auth.gshq.develop.gymshark.com
 auth.gymshark.com
 auth.staging.gymshark.com
+auth.tax.crypto.com
 autodiscover.acronis.com
 autodiscover.corp.acronis.com
 aws.acronis.com
@@ -164,9 +171,11 @@ bg98-cloud.acronis.com
 bg99-cloud.acronis.com
 bgtest.corp.acronis.com
 bjs1-repo.acronis.com
+black-cat.crypto.com
 bll1-repo.acronis.com
 bll1-s3gw.acronis.com
 blog.acronis.com
+blog.crypto.com
 blog.omise.co
 blogcms.gymshark.com
 bom1-repo.acronis.com
@@ -210,6 +219,7 @@ ca.acronis.com
 ca.gymshark.com
 ca01-cloud.acronis.com
 callback.gymshark.com
+callyourshot.crypto.com
 caps.apps.omise.co
 caps.omise.co
 caps01.apps.omise.co
@@ -221,6 +231,7 @@ careers.gymshark.com
 careersform.gymshark.com
 cas.acronis.com
 cas.us.corp.acronis.com
+case.crypto.com
 casestudies.acronis.com
 cb-eu2.acronis.com
 cdn.acronis.com
@@ -255,6 +266,7 @@ ch-mod-jenkins.corp.acronis.com
 ch-teamcity.corp.acronis.com
 ch.gymshark.com
 ch.staging.gymshark.com
+chain.crypto.com
 channelincentives.acronis.com
 charts.apps.omise.co
 checkout.staging.gymshark.com
@@ -263,6 +275,7 @@ ci-jenkins.sdt.corp.acronis.com
 ci.corp.acronis.com
 citi-uat.omise.co
 cleverbridge.acronis.com
+click.crypto.com
 client-auth.omise.co
 cloud-fes-us1.acronis.com
 cloud-fes-us2.acronis.com
@@ -332,6 +345,7 @@ community.gymshark.com
 community.staging.gymshark.com
 conditioning.gymshark.com
 connect.acronis.com
+content-hub-static.crypto.com
 content.staging.gymshark.com
 contentful.central.staging.gymshark.com
 contracts.omise.co
@@ -340,6 +354,7 @@ corp-dc2.corp.acronis.com
 corp-dc3.corp.acronis.com
 corp-dc6.corp.acronis.com
 corp.acronis.com
+council.crypto.com
 cox1-repo.acronis.com
 cox1-s3gw.acronis.com
 cox2-repo.acronis.com
@@ -348,6 +363,7 @@ cp-eu2.acronis.com
 cp.partners.acronis.com
 creators.gymshark.com
 crs.corp.acronis.com
+crypto.com
 cs-ops-portal.apps.omise.co
 csp-demo.acronis.com
 currencies.gymshark.com
@@ -390,6 +406,7 @@ de-vpn.acronis.com
 de.gymshark.com
 de.headless.staging.gymshark.com
 de99-cloud.acronis.com
+deriv-api.crypto.com
 design.gymshark.com
 dev-cloud.acronis.com
 dev.gymshark.com
@@ -415,6 +432,8 @@ dl5.acronis.com
 dl6.acronis.com
 docs.acronis.com
 download.acronis.com
+download.crypto.com
+dprd.crypto.com
 dr.acronis.com
 draas-zabbix.acronis.com
 dyncontent.gymshark.com
@@ -451,6 +470,8 @@ eu8-cloud.acronis.com
 events-booking.api.gymshark.com
 events-booking.api.staging.gymshark.com
 events.platform.staging.gymshark.com
+exchange-docs.crypto.com
+exchange.crypto.com
 experian.gymshark.com
 facebook.acronis.com
 fco1-repo.acronis.com
@@ -461,6 +482,7 @@ feed-c.acronis.com
 feed.acronis.com
 fi.gymshark.com
 fi01-cloud.acronis.com
+fiatway.crypto.com
 files.acronis.com
 files.demo.acronis.com
 foo.jongshark.staging.gymshark.com
@@ -519,9 +541,13 @@ heg-baas.acronis.com
 hel1-repo.acronis.com
 hel1-s3gw.acronis.com
 help.acronis.com
+help.crypto.com
 help.dr.acronis.com
+help.mco.crypto.com
 helpdesk.acronis.com
 helpdesk.gymshark.com
+helper.crypto.com
+herrgards.crypto.com
 history.acronis.com
 hnd1-repo.acronis.com
 hnd1-s3gw.acronis.com
@@ -557,6 +583,7 @@ ingestion.platform.gymshark.com
 inmi.adr.acronis.com
 insiders.gymshark.com
 installment-scb.omise.co
+institutions.crypto.com
 intercom.service.gymshark.com
 intercom.service.staging.gymshark.com
 intranet.acronis.com
@@ -571,6 +598,7 @@ ist1-repo.acronis.com
 ist1-s3gw.acronis.com
 it01-cloud.acronis.com
 ivr.acronis.com
+j.crypto.com
 jenkins.apps.omise.co
 jenkins.corp.acronis.com
 jenkins.platform.corp.acronis.com
@@ -583,6 +611,7 @@ jp-cloud.acronis.com
 jp-pp.acronis.com
 jp-vpn.acronis.com
 jp03-cloud.acronis.com
+js.crypto.com
 jumpstation.gymshark.com
 k8s.develop.gymshark.com
 k8s.staging.gymshark.com
@@ -608,6 +637,7 @@ legacy.ru.corp.acronis.com
 legacy.us.corp.acronis.com
 lenses.staging.apps.omise.co
 li01-cloud.acronis.com
+link.crypto.com
 link.e-mail.gymshark.com
 link.omise.co
 link.serviceinfo.gymshark.com
@@ -615,6 +645,7 @@ lis1-repo.acronis.com
 lis1-s3gw.acronis.com
 liveupdate.acronis.com
 lms.acronis.com
+localization-api.crypto.com
 login.acronis.com
 logo.acronis.com
 los1-repo.acronis.com
@@ -637,6 +668,7 @@ mail.ru.corp.acronis.com
 mail.sglab.acronis.com
 mail.us.corp.acronis.com
 mailings.acronis.com
+marketing-api.crypto.com
 mc-bg98-cloud.acronis.com
 mc-bt01-cloud.acronis.com
 mc-cn99-cloud.acronis.com
@@ -644,6 +676,7 @@ mc-heg-baas.acronis.com
 mc-hpl-baas.acronis.com
 mc-io99-cloud.acronis.com
 mc-msptest2.acronis.com
+mco.crypto.com
 md.apps.omise.co
 mdfcore.channelincentives.acronis.com
 meet.acronis.com
@@ -651,6 +684,7 @@ meet.partners.acronis.com
 merch.acronis.com
 merchandiser.gymshark.com
 merchandiserscan.gymshark.com
+merchant.crypto.com
 message.acronis.com
 metrics.corp.acronis.com
 metro.acronis.com
@@ -677,6 +711,7 @@ mtweb.acronis.com
 mty1-repo.acronis.com
 mty1-s3gw.acronis.com
 mx.acronis.com
+mx.crypto.com
 mx01-cloud.acronis.com
 my.acronis.com
 nat-t.acronis.com
@@ -684,6 +719,8 @@ netsuite-ingestion.platform.gymshark.com
 netsuite-ingestion.platform.staging.gymshark.com
 new-pp.acronis.com
 new.central.gymshark.com
+news.crypto.com
+nft.crypto.com
 ng01-cloud.acronis.com
 nginx.develop.gymshark.com
 nhsmtp.acronis.com
@@ -704,8 +741,14 @@ ns3.acronis.com
 ns4.acronis.com
 nwtoken.omise.co
 nz01-cloud.acronis.com
+o1.news.mco.crypto.com
 o2182.abmail.app.gymshark.com
+o2232.abmail.news.crypto.com
+o2662.abmail.serviceinfo.crypto.com
+o3.ptr7470.mco.crypto.com
 o3843.abmail.train.gymshark.com
+o4.ptr3606.mco.crypto.com
+oauth2.crypto.com
 ob.acronis.com
 oem.acronis.com
 oengine-citi.omise.co
@@ -726,6 +769,7 @@ omg.omise.co
 omise.co
 onboarding.gymshark.com
 oos.acronis.com
+opening-night.crypto.com
 ordercancel.gymshark.com
 orders.acronis.com
 osa.acronis.com
@@ -739,8 +783,14 @@ pad.acronis.com
 pages.acronis.com
 partnerapp.acronis.com
 partners.acronis.com
+pay-api.crypto.com
+pay-docs.crypto.com
+pay-node.crypto.com
+pay.crypto.com
 pay.omise.co
+payid.crypto.com
 paymentsapp.omise.co
+paystring.crypto.com
 pbh1-repo.acronis.com
 pbh1-s3gw.acronis.com
 pbi.acronis.com
@@ -758,7 +808,9 @@ piggy.apps.omise.co
 piggy2.apps.omise.co
 pl.acronis.com
 pl01-cloud.acronis.com
+platinum.crypto.com
 pmc.acronis.com
+po.crypto.com
 poc-k8s-ingestion.service.staging.gymshark.com
 policy-bot.apps.omise.co
 portal.apps.omise.co
@@ -766,20 +818,26 @@ preferences.gymshark.com
 prf.corp.acronis.com
 prg1-repo.acronis.com
 prg1-s3gw.acronis.com
+price-api.crypto.com
+price-member-api.crypto.com
 prometheus.k8s.develop.gymshark.com
 promo.acronis.com
+promo.crypto.com
 promosandbox.acronis.com
 provisioning-vpn.acronis.com
 pt.acronis.com
 pt01-cloud.acronis.com
 pypi.corp.acronis.com
 qlik.corp.acronis.com
+queue.crypto.com
 rabbitamqp.corp.acronis.com
 rabbitmq.corp.acronis.com
 rds.acronis.com
 redapi.acronis.com
 redapi2.acronis.com
 redirectsap.acronis.com
+referral-test.crypto.com
+referral.crypto.com
 register.acronis.com
 registration.acronis.com
 registry.corp.acronis.com
@@ -798,6 +856,7 @@ reviews.api.gymshark.com
 reviews.api.staging.gymshark.com
 rix1-repo.acronis.com
 rix1-s3gw.acronis.com
+rm.crypto.com
 rndtools-jenkins.corp.acronis.com
 ro01-cloud.acronis.com
 row.gymshark.com
@@ -928,9 +987,12 @@ sg-oos-2.corp.acronis.com
 sg-vpn.acronis.com
 sg-vpn2.acronis.com
 sgresearch.acronis.com
+sgx.crypto.com
 share.training.staging.gymshark.com
 shawshank-events-booking.api.staging.gymshark.com
+shop-demo.crypto.com
 shop.acronis.com
+shop.crypto.com
 shopify-test.staging.gymshark.com
 shopify.omise.co
 shopifypayments.omise.co
@@ -964,7 +1026,10 @@ staging2.gymshark.com
 staging3.gymshark.com
 staging4.gymshark.com
 stat.acronis.com
+static.crypto.com
+static2.crypto.com
 staticfiles.acronis.com
+status.crypto.com
 status.omise.co
 stock-finder.api.staging.gymshark.com
 store-sync.staging.gymshark.com
@@ -972,7 +1037,9 @@ store.acronis.com
 store.apps.omise.co
 store.gymshark.com
 store.omise.co
+stream.crypto.com
 stun.acronis.com
+subscribe.crypto.com
 summary-creators.gymshark.com
 superset.apps.omise.co
 support.acronis.com
@@ -984,6 +1051,7 @@ switchon.gymshark.com
 switzerland.staging.gymshark.com
 systemsync.acronis.com
 tagmanager.gymshark.com
+tax.crypto.com
 tay1-repo.acronis.com
 tay1-s3gw.acronis.com
 team-creators.gymshark.com
@@ -1003,9 +1071,11 @@ tll2-s3gw.acronis.com
 tlv1-repo.acronis.com
 tlv1-s3gw.acronis.com
 tm.partners.acronis.com
+tools.crypto.com
 tours.gymshark.com
 tpe1-repo.acronis.com
 tpe1-s3gw.acronis.com
+tpp-static.crypto.com
 tr01-cloud.acronis.com
 track.gymshark.com
 tracker.gymshark.com
@@ -1047,6 +1117,8 @@ unifi.omise.co
 unleash.develop.gymshark.com
 unleash.staging.gymshark.com
 updates.acronis.com
+upload.crypto.com
+url1137.crypto.com
 urlresearch.acronis.com
 us-az-dc1.corp.acronis.com
 us-az-vpn.acronis.com
@@ -1086,6 +1158,7 @@ vlc1-repo.acronis.com
 vlc1-s3gw.acronis.com
 vmworld.acronis.com
 vpn-user.omise.co
+wallet.crypto.com
 warpgate.apps.omise.co
 waw1-repo.acronis.com
 waw1-s3gw.acronis.com
@@ -1143,6 +1216,7 @@ www.corp-dc3.corp.acronis.com
 www.corp-dc6.corp.acronis.com
 www.cp-eu2.acronis.com
 www.cp.partners.acronis.com
+www.crypto.com
 www.datageddon.acronis.com
 www.de-dms1.corp.acronis.com
 www.dev-cloud.acronis.com
@@ -1214,6 +1288,10 @@ www.us-az-dc1.corp.acronis.com
 www.us-az-vpn.acronis.com
 www.us-ts.acronis.com
 www.vcda.acronis.com
+x-xxviii-mmxxi.crypto.com
+xf.crypto.com
+xf2.crypto.com
+xw2.crypto.com
 yvr1-repo.acronis.com
 yvr1-s3gw.acronis.com
 za01-cloud.acronis.com
