@@ -14,6 +14,7 @@ http://agents-se01-cloud.acronis.com
 http://agents-us12-cloud.acronis.com
 http://agents-za01-cloud.acronis.com
 http://api.omise.co
+http://api.teabreak.gymshark.io
 http://athens.staging.gymshark.com
 http://beta-baas.acronis.com
 http://br01-cloud.acronis.com
@@ -35,6 +36,7 @@ http://eu.gymshark.com
 http://eu2-cloud.acronis.com
 http://fi01-cloud.acronis.com
 http://gru1-repo.acronis.com
+http://gymshark.io
 http://i1.acronis.com
 http://ie.gymshark.com
 http://insiders.gymshark.com
@@ -92,6 +94,7 @@ https://ach1-repo.acronis.com
 https://ach1-s3gw.acronis.com
 https://activation.acronis.com
 https://admin.acronis.com
+https://admin.tableau.gymshark.io
 https://adn.acronis.com
 https://advertising.crypto.com
 https://agents-at01-cloud.acronis.com
@@ -129,6 +132,7 @@ https://api.crypto.com
 https://api.develop.gymshark.com
 https://api.gymshark.com
 https://api.staging.gymshark.com
+https://api.teabreak.staging.gymshark.io
 https://app.gymshark.com
 https://appdirect-eu2-cloud.acronis.com
 https://apply.gymshark.com
@@ -140,12 +144,16 @@ https://au1-cloud.acronis.com
 https://auth.acronis.com
 https://auth.crypto.com
 https://auth.develop.gymshark.com
+https://auth.develop.gymshark.io
+https://auth.gshq.gymshark.io
+https://auth.gshq.staging.gymshark.io
 https://auth.gymshark.com
 https://auth.tax.crypto.com
 https://autodiscover.acronis.com
 https://aws.acronis.com
 https://backinstock.service.gymshark.com
 https://backinstock.service.staging.gymshark.com
+https://backstage.staging.gymshark.io
 https://backup.acronis.com
 https://bg-vpn.acronis.com
 https://bg01-cloud.acronis.com
@@ -186,6 +194,7 @@ https://ca.gymshark.com
 https://ca01-cloud.acronis.com
 https://callback.gymshark.com
 https://callyourshot.crypto.com
+https://cancellations.api.gymshark.io
 https://careers.acronis.com
 https://careers.gymshark.com
 https://careersform.gymshark.com
@@ -236,6 +245,9 @@ https://cloud-wr-no01.acronis.com
 https://cloud-wr-ru2.acronis.com
 https://cloud-wr-tr01.acronis.com
 https://conditioning.gymshark.com
+https://config.develop.gymshark.io
+https://config.gymshark.io
+https://config.staging.gymshark.io
 https://connect.acronis.com
 https://content-hub-static.crypto.com
 https://council.crypto.com
@@ -252,6 +264,7 @@ https://dk.staging.gymshark.com
 https://dl.acronis.com
 https://dl3.acronis.com
 https://download.crypto.com
+https://dsvnetsuite.service.staging.gymshark.io
 https://e.gymshark.com
 https://ee01-cloud.acronis.com
 https://es01-cloud.acronis.com
@@ -261,6 +274,8 @@ https://exchange-docs.crypto.com
 https://exchange.crypto.com
 https://experian.gymshark.com
 https://fco1-repo.acronis.com
+https://features.api.gymshark.io
+https://features.gymshark.io
 https://feed-c.acronis.com
 https://fiatway.crypto.com
 https://fra20-s3gw.acronis.com
@@ -302,6 +317,8 @@ https://ng01-cloud.acronis.com
 https://no.gymshark.com
 https://no01-cloud.acronis.com
 https://nps.acronis.com
+https://nsproxy.service.gymshark.io
+https://nsproxy.service.staging.gymshark.io
 https://oauth2.crypto.com
 https://offline.omise.co
 https://offsite.omise.co
@@ -319,6 +336,8 @@ https://paystring.crypto.com
 https://phx10-s3gw.acronis.com
 https://platinum.crypto.com
 https://po.crypto.com
+https://pos.retail-assistant.gymshark.io
+https://premium.api.gymshark.io
 https://prg1-s3gw.acronis.com
 https://price-api.crypto.com
 https://price-member-api.crypto.com
@@ -357,10 +376,15 @@ https://staticfiles.acronis.com
 https://status.crypto.com
 https://status.omise.co
 https://store-sync.staging.gymshark.com
+https://storesync2.gymshark.io
+https://storesync2.staging.gymshark.io
 https://stream.crypto.com
 https://subscribe.crypto.com
 https://support.acronis.com
+https://tableau.gymshark.io
 https://tax.crypto.com
+https://teabreak.gymshark.io
+https://teabreak.staging.gymshark.io
 https://team-creators.gymshark.com
 https://test.omise.co
 https://thriftplus.gymshark.com
@@ -369,6 +393,8 @@ https://tlv1-s3gw.acronis.com
 https://tools.crypto.com
 https://tpe1-repo.acronis.com
 https://tpp-static.crypto.com
+https://traefikauth.service.gymshark.io
+https://traefikauth.service.staging.gymshark.io
 https://train.gymshark.com
 https://training.gymshark.com
 https://training.staging.gymshark.com
