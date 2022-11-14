@@ -1,0 +1,4 @@
+[[36m2022-11-14 05:36:03[0m] [[92maws-bucket-takeover[0m] [[94mhttp[0m] [[38;5;208mhigh[0m] https://abgw-akl1-aci01.acronis.com
+[[36m2022-11-14 05:36:03[0m] [[92maws-bucket-takeover[0m] [[94mhttp[0m] [[38;5;208mhigh[0m] https://abgw-tll1-aci01.acronis.com
+[[36m2022-11-14 05:36:04[0m] [[92maws-bucket-takeover[0m] [[94mhttp[0m] [[38;5;208mhigh[0m] https://abgw-pbh1-aci01.acronis.com
+[[36m2022-11-14 05:36:05[0m] [[92maws-bucket-takeover[0m] [[94mhttp[0m] [[38;5;208mhigh[0m] https://abgw-sin2-acs1.acronis.com
