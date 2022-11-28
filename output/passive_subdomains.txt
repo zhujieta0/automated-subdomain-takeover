@@ -372,6 +372,9 @@ altynkopir2020.mail.ru
 altynozen.kz.mail.ru
 alvd2020.mail.ru
 alw2000.mail.ru
+am1.bumble.com
+amb.bumble.com
+ambassador.bumble.com
 amigo.mail.ru
 amigodl.mail.ru
 an-1210.mail.ru
@@ -480,9 +483,11 @@ apif24.i.mail.ru
 apif25.i.mail.ru
 apif30.i.mail.ru
 apif31.i.mail.ru
+app.bumble.com
 app.gymshark.com
 appdirect-eu2-cloud.acronis.com
 apply.gymshark.com
+apps.bumble.com
 apps.omise.co
 apps.reseach.mail.ru
 apps.research.mail.ru
@@ -543,10 +548,12 @@ auth.tax.crypto.com
 authdl.mail.ru
 authserverside-api.e.mail.ru
 auto.mail.ru
+autoconfig.shop.bumble.com
 autodiscover.acronis.com
 autodiscover.corp.acronis.com
 autodiscover.corp.mail.ru
 autodiscover.es.mail.ru
+autodiscover.web.bumble.com
 autostart2020.mail.ru
 autumn-with-avon.lady.mail.ru
 autumnwith-avon.lady.mail.ru
@@ -652,6 +659,7 @@ blink.lady.mail.ru
 bll1-repo.acronis.com
 bll1-s3gw.acronis.com
 blog.acronis.com
+blog.bumble.com
 blog.crypto.com
 blog.mail.ru
 blog.omise.co
@@ -659,6 +667,9 @@ blogcms.gymshark.com
 blogs.mail.ru
 blogs.swa.mail.ru
 blondex00.mail.ru
+bma.bumble.com
+bmaeu.bumble.com
+bmaus.bumble.com
 bns03.mail.ru
 bns1.mail.ru
 bns2.mail.ru
@@ -681,6 +692,7 @@ branded-au1-cloud.acronis.com
 branded-beta-cloud.acronis.com
 branded-br01-cloud.acronis.com
 branded-ca01-cloud.acronis.com
+branded-cz01-cloud.acronis.com
 branded-dk01-cloud.acronis.com
 branded-es01-cloud.acronis.com
 branded-eu-baas.acronis.com
@@ -702,6 +714,7 @@ branded-sg-cloud.acronis.com
 branded-us-cloud.acronis.com
 branded-us4-cloud.acronis.com
 branded-us5-cloud.acronis.com
+branded-za01-cloud.acronis.com
 bratik10.mail.ru
 bratva-mr.mail.ru
 bratva-ok.mail.ru
@@ -732,6 +745,7 @@ bull15.mail.ru
 bull2.mail.ru
 bull9.mail.ru
 bum54.mail.ru
+bumble.com
 bummer900.mail.ru
 buy.acronis.com
 buza.mail.ru
@@ -768,6 +782,7 @@ cas.us.corp.acronis.com
 case.crypto.com
 casestudies.acronis.com
 cassiopeia.mail.ru
+casting-bachelor.shop.bumble.com
 cb-eu2.acronis.com
 cb.mail.ru
 cdn.8march.mail.ru
@@ -839,6 +854,7 @@ citi-uat.omise.co
 citi.corp.mail.ru
 citiapi.corp.mail.ru
 citrine.mail.ru
+city-guides.bumble.com
 cld-uploader12.cloud.mail.ru
 cldpmx1.i.mail.ru
 cldpmx2.i.mail.ru
@@ -1137,6 +1153,7 @@ config.staging.gymshark.io
 confluence.mail.ru
 connect.acronis.com
 connect.mail.ru
+consent.bumble.com
 content-6.foto.my.mail.ru
 content-hub-static.crypto.com
 content.gibdd.mail.ru
@@ -1222,6 +1239,7 @@ cz.acronis.com
 cz01-cloud.acronis.com
 d0.cb.bb.a0.top.mail.ru
 d0002000.mail.ru
+d2zh3kxlwenffrxx7pjc.lesgrandesfemmes.bumble.com
 d7.c5.b2.a2.top.mail.ru
 d7.ca.b0.a0.top.mail.ru
 d8.c9.b8.a0.top.mail.ru
@@ -1359,6 +1377,7 @@ dns1.mail.ru
 dns2.mail.ru
 dobro.mail.ru
 docs.acronis.com
+docs.bumble.com
 docs.mail.ru
 docsb1.i.mail.ru
 docsb10.i.mail.ru
@@ -1391,6 +1410,7 @@ doni2000.mail.ru
 download.acronis.com
 download.crypto.com
 dp.corp.mail.ru
+dphotos-eu1.bumble.com
 dprd.crypto.com
 dprint2010.mail.ru
 dr.acronis.com
@@ -1417,8 +1437,10 @@ e-sports.mail.ru
 e.gymshark.com
 e.mail.ru
 e3mzr.acronis.com
+eam.bumble.com
 ebay.lady.mail.ru
 ebay.otvet.mail.ru
+eblgnwwk7jawlzh6bzg4.thebeehive.bumble.com
 echo1.i.mail.ru
 echo1.mail.ru
 echo12.i.mail.ru
@@ -1535,6 +1557,7 @@ eu-img.acronis.com
 eu.acronis.com
 eu.gymshark.com
 eu.pwks.gymshark.io
+eu1.bumble.com
 eu2-baas.acronis.com
 eu2-cloud.acronis.com
 eu4-baas.acronis.com
@@ -1997,6 +2020,7 @@ fra20-repo.acronis.com
 fra20-s3gw.acronis.com
 frag.mail.ru
 fragoria.mail.ru
+france-love-guide.bumble.com
 freestyle3000.mail.ru
 freid.mail.ru
 frog.mail.ru
@@ -2082,6 +2106,7 @@ gepagard.lady.mail.ru
 gepard.mail.ru
 gerxe.mail.ru
 gestia.mail.ru
+gew3.bumble.com
 ghunt2000.mail.ru
 gibdd.mail.ru
 gift2.mail.ru
@@ -2137,6 +2162,10 @@ gru1-s3gw.acronis.com
 gsadmin.gymshark.com
 gsco2020.mail.ru
 gsinsiders.gymshark.com
+gss1.bumble.com
+gss3.bumble.com
+gss6.bumble.com
+gss8.bumble.com
 gulastana100.mail.ru
 gulmarg.mail.ru
 guns.mail.ru
@@ -2182,6 +2211,7 @@ hnd1-repo.acronis.com
 hnd1-s3gw.acronis.com
 homer2020.mail.ru
 honduras2.mail.ru
+honey.bumble.com
 hooch.mail.ru
 hopt2010.mail.ru
 horo.mail.ru
@@ -2502,6 +2532,7 @@ ios-agent-api.e.mail.ru
 ipn.acronis.com
 ipv4.mail.ru
 ir.acronis.com
+ir.bumble.com
 is-radar10.mail.ru
 is01-cloud.acronis.com
 isaaa01.i.mail.ru
@@ -2795,6 +2826,7 @@ lenochkarogozhnikova2510.mail.ru
 lenses.staging.apps.omise.co
 leon1010.mail.ru
 leopard.mail.ru
+lesgrandesfemmes.bumble.com
 letsapi.mail.ru
 letterforme2000.mail.ru
 level500.mail.ru
@@ -3021,6 +3053,7 @@ luna.mail.ru
 lv01-cloud.acronis.com
 lyncdiscover.acronis.com
 lyncdiscoverinternal.acronis.com
+m.bumble.com
 m.cutov.mail.ru
 m.gifts.mail.ru
 m.gymshark.com
@@ -3031,6 +3064,7 @@ m1fleet1.corp.mail.ru
 ma-ex1.us.corp.acronis.com
 ma-hc-1.us.corp.acronis.com
 ma-hc-2.us.corp.acronis.com
+ma.bumble.com
 made.mail.ru
 maestr0100.mail.ru
 magic.mail.ru
@@ -3239,6 +3273,7 @@ mirage67.mail.ru
 misentry.acronis.com
 mking.mail.ru
 mlattach.cloud.mail.ru
+mlink.bumble.com
 mlogman10.mail.ru
 mlogman11.mail.ru
 mlogman12.mail.ru
@@ -3295,6 +3330,8 @@ mpr6.mail.ru
 mpr7.mail.ru
 mpr8.mail.ru
 mpr9.mail.ru
+mqa.bumble.com
+mqalink.bumble.com
 mra-mail.mail.ru
 mra.mail.ru
 mrac.games.mail.ru
@@ -3618,6 +3655,7 @@ mrs4200.mail.ru
 mscribe1.mail.ru
 mscribeh1.mail.ru
 msg.acronis.com
+mshot.bumble.com
 msn2610.mail.ru
 msoft00.mail.ru
 msptest2.acronis.com
@@ -4388,12 +4426,15 @@ nesquik.lady.mail.ru
 net.mail.ru
 netsuite-ingestion.platform.gymshark.com
 netsuite-ingestion.platform.staging.gymshark.com
+network.bumble.com
 neugomonnay100.mail.ru
 new-dimension.lady.mail.ru
 new-life-2020.mail.ru
 new-pp.acronis.com
 new-top.mail.ru
 new.3802200.mail.ru
+new.amb.bumble.com
+new.ambassador.bumble.com
 new.central.gymshark.com
 new.mail.ru
 new.wf.mail.ru
@@ -4439,18 +4480,24 @@ notice.gymshark.com
 nps.acronis.com
 ns1.3802200.mail.ru
 ns1.acronis.com
+ns1.bumble.com
 ns1.mail.ru
 ns1.mcs.mail.ru
 ns1kazah.mail.ru
 ns2.3802200.mail.ru
 ns2.acronis.com
+ns2.bumble.com
 ns2.mail.ru
 ns2.mcs.mail.ru
 ns3.acronis.com
+ns3.bumble.com
 ns3.mail.ru
 ns4.acronis.com
+ns4.bumble.com
 ns4.mail.ru
+ns5.bumble.com
 ns5.mail.ru
+ns6.bumble.com
 nseu1.mail.ru
 nseu2.mail.ru
 nsproxy.service.gymshark.io
@@ -4509,6 +4556,7 @@ oktopus3.mail.ru
 oktopus4.mail.ru
 old.mail.ru
 oliga2000.mail.ru
+ololo.shop.bumble.com
 omega.calendar.mail.ru
 omega.mail.ru
 omega.todo.mail.ru
@@ -5323,6 +5371,7 @@ ruwebconf.acronis.com
 rvasin00.mail.ru
 rw.pwks.gymshark.io
 s.amigo.mail.ru
+s.bumble.com
 s.sputnik.mail.ru
 s3-au2-acs1.acronis.com
 s3-eu3-acs1.acronis.com
@@ -5434,6 +5483,7 @@ server1.mail.ru
 serversideapi.e.mail.ru
 service.amigo.mail.ru
 sesi1000000.mail.ru
+seu1.bumble.com
 seviz2010.mail.ru
 sf-dc.corp.mail.ru
 sf-relay.acronis.com
@@ -5501,10 +5551,13 @@ shiza.mail.ru
 shokir-10.mail.ru
 shop-demo.crypto.com
 shop.acronis.com
+shop.bumble.com
 shop.crypto.com
 shopify-test.staging.gymshark.com
 shopify.omise.co
 shopifypayments.omise.co
+short-s.bumble.com
+shot.bumble.com
 shurik20002000.mail.ru
 sigma.mail.ru
 signature.omise.co
@@ -5528,6 +5581,7 @@ slavarik2000.mail.ru
 slavik-2000.mail.ru
 slim-or-not.lady.mail.ru
 slimautumn.lady.mail.ru
+slink.bumble.com
 slot.mail.ru
 slototerra.mail.ru
 smart.lady.mail.ru
@@ -5839,6 +5893,7 @@ tay1-s3gw.acronis.com
 teabreak.gymshark.io
 teabreak.staging.gymshark.io
 team-creators.gymshark.com
+team.bumble.com
 team.mail.ru
 tech.mail.ru
 technoatom.mail.ru
@@ -5879,6 +5934,7 @@ tf1.i.mail.ru
 tf12.i.mail.ru
 tg10.mail.ru
 tg102.mail.ru
+thebeehive.bumble.com
 theprodigy.ru.mail.ru
 thriftplus.gymshark.com
 ti.acronis.com
@@ -5895,6 +5951,7 @@ tlv1-repo.acronis.com
 tlv1-s3gw.acronis.com
 tm.partners.acronis.com
 tmgame.mail.ru
+toau10tix.bumble.com
 toleg10.mail.ru
 tonic.mail.ru
 tools.crypto.com
@@ -5966,6 +6023,7 @@ u-lync-fe-2.corp.acronis.com
 u-lync-fe-3.corp.acronis.com
 u-test.cloud.mail.ru
 u.cloud.mail.ru
+ub-lp.bumble.com
 uche.jay00.mail.ru
 uclients.cloud.mail.ru
 udod.mail.ru
@@ -6140,6 +6198,7 @@ us-ts.acronis.com
 us.gymshark.com
 us.metro.acronis.com
 us.pwks.gymshark.io
+us1.bumble.com
 us11-cloud.acronis.com
 us12-cloud.acronis.com
 us4-baas.acronis.com
@@ -6313,6 +6372,7 @@ volga0100.mail.ru
 volkodavv2000.mail.ru
 vostokhotel2020.mail.ru
 vozrogdenie-2000.mail.ru
+vpn-shot.bumble.com
 vpn-user.omise.co
 vrrpandromeda.mail.ru
 vrrpcassiopea.mail.ru
@@ -6358,6 +6418,7 @@ web-api-tih-feed-c.acronis.com
 web-api-tih.acronis.com
 web-api-vmp.acronis.com
 web-api.vkdoc.mail.ru
+web.bumble.com
 webagent.mail.ru
 webarchive.mail.ru
 webdav.acronis.com
@@ -6414,7 +6475,9 @@ www.auto.mail.ru
 www.av.mail.ru
 www.axtest.acronis.com
 www.biz.mail.ru
+www.blog.bumble.com
 www.blog.omise.co
+www.bumble.com
 www.buy.acronis.com
 www.caps.omise.co
 www.caps02.omise.co
@@ -6438,8 +6501,10 @@ www.cp-eu2.acronis.com
 www.cp.partners.acronis.com
 www.crypto.com
 www.datageddon.acronis.com
+www.dav75.users.bumble.com
 www.de-dms1.corp.acronis.com
 www.dev-cloud.acronis.com
+www.dev.studio.bumble.com
 www.dl.acronis.com
 www.dr.acronis.com
 www.draas-zabbix.acronis.com
@@ -6452,6 +6517,7 @@ www.fs.acronis.com
 www.game.tz.mail.ru
 www.gateway.acronis.com
 www.gifts2019.mail.ru
+www.gsgou.users.bumble.com
 www.gymshark.com
 www.hastebin.adc.corp.acronis.com
 www.hastebin.corp.acronis.com
@@ -6461,6 +6527,7 @@ www.huoxian.cn
 www.ibanking.omise.co
 www.info.acronis.com
 www.insiders.gymshark.com
+www.ir.bumble.com
 www.it.mail.ru
 www.jenkins.corp.acronis.com
 www.jenkins.platform.corp.acronis.com
@@ -6468,6 +6535,7 @@ www.kaseya-tap-asd.acronis.com
 www.kaseya-tap-asd2.acronis.com
 www.kaseya-tap-asd3.acronis.com
 www.lazytools.corp.acronis.com
+www.lesgrandesfemmes.bumble.com
 www.lms.acronis.com
 www.mail.acronis.com
 www.mail.ru
@@ -6495,6 +6563,7 @@ www.paymentsapp.omise.co
 www.pbi.acronis.com
 www.preferences.gymshark.com
 www.prf.corp.acronis.com
+www.profesionales.bumble.com
 www.promo.acronis.com
 www.pubg.mail.ru
 www.qlik.corp.acronis.com
@@ -6505,10 +6574,13 @@ www.rndtools-jenkins.corp.acronis.com
 www.rpc.webdev-intcopy.corp.acronis.com
 www.sg-devops.corp.acronis.com
 www.store.acronis.com
+www.studio.bumble.com
 www.svn.corp.acronis.com
 www.team.mail.ru
 www.telemetry.acronis.com
+www.test2.users.bumble.com
 www.testrail.corp.acronis.com
+www.thebeehive.bumble.com
 www.trials.cp-eu2.acronis.com
 www.truemoney.backends.omise.co
 www.tryaccess.acronis.com
