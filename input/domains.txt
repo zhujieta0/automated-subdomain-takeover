@@ -1,6 +1,3 @@
 dell.com
-vendhq.com
-piaservers.com
-bitdefender.com
 airbnb.cn
 aiven.io
